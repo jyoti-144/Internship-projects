@@ -1,3 +1,3 @@
 # Internship-projects
 all Techiehelp projects are uploaded here
-Author - JYOTI SINGH
+Author - JYOTI SINGH(projects)
